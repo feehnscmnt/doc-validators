@@ -20,12 +20,12 @@ Para validar e-mail: GET <a href="#">/doc-validators/validate-email?email={email
 <br>
 Para validar CEP: GET <a href="#">/doc-validators/validate-cep?cep={cep}</a>
 <br>
-Para validar maiores e menores de 18 anos com dia, mês e ano: GET <a href="#">/doc-validators/validate-over18?year={year}&month={month}&dayOfMonth={dayOfMonth}</a>
+Para validar maior ou menor de 18: GET <a href="#">/doc-validators/validate-over18?year={year}&month={month}&dayOfMonth={dayOfMonth}</a>
 <br>
-Para validar maiores e menores de 18 anos com data no padrão ISO8601: GET <a href="#">/doc-validators/validate-over18-iso-8601?dateOfBirth={dateOfBirth}</a>
+Para validar maior ou menor de 18: GET <a href="#">/doc-validators/validate-over18-iso-8601?dateOfBirth={dateOfBirth}</a>
 <br>
-Para validar maiores e menores de 18 anos com data no padrão americano: GET <a href="#">/doc-validators/validate-over18-americandate?dateOfBirth={dateOfBirth}</a>
+Para validar maior ou menor de 18: GET <a href="#">/doc-validators/validate-over18-americandate?dateOfBirth={dateOfBirth}</a>
 <br>
-Para validar maiores e menores de 18 anos com data no padrão comum: GET <a href="#">/doc-validators/validate-over18-commondate?dateOfBirth={dateOfBirth}</a>
+Para validar maior ou menor de 18: GET <a href="#">/doc-validators/validate-over18-commondate?dateOfBirth={dateOfBirth}</a>
 <br>
 Para validar número de cartão de crédito: GET <a href="#">/doc-validators/validate-card-number?cardNumber={cardNumber}</a>
